@@ -17,6 +17,7 @@
 ## Liquidity Pool (Mainnet)
 
 - **DEX**: Uniswap v4 on Robinhood Chain
+- **Pool Address**: 0x8366a39CC670B4001A1121B8F6A443A643e40951
 - **Pair**: XRP/ETH, 1% fee tier, full range
 - **Initial liquidity**: 0.02 ETH + ~100,000,000 XRP
 - **Initial price**: 5,000,000,000 XRP per ETH
